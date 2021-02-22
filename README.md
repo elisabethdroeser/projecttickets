@@ -36,7 +36,6 @@ Resonemang kring risker med digitala biljetter, fallgropar för projektet, lä
 Leverans
 Git-repo (zippa även ihop och ladda upp) 
 
-
 Officiella kriterier Kunskaper
 Om grundläggande programmering i ett backend-webbutvecklingsspråk. Om databaser.
 Om arkitektur och systemdesign för e-handelsapplikationer.
