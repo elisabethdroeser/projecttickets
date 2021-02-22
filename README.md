@@ -1,5 +1,5 @@
 # projecttickets
-Ticket system for WIE18
+Ticket system for WIE18, with PHP
 
 Enskild uppgift
 Biljettsystem Admin
